@@ -3,7 +3,4 @@
 lib/*
 bin/*
 .tmp/*
-ipynb/.ipynb_checkpoints/*
-ipynb/java/.ipynb_checkpoints/*
-ipynb/python/.ipynb_checkpoints/*
-ipynb/scala/.ipynb_checkpoints/*
+*.ipynb_checkpoints/*

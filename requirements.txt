@@ -9,6 +9,7 @@ polar==0.0.118
 pyspark==3.4.1
 setuptools==68.0.0
 spylon-kernel==0.4.1
+SQLAlchemy==2.0.18
 uri-template==1.3.0
 virtualenv==20.23.1
 webcolors==1.13
