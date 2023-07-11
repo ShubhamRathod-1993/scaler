@@ -3,4 +3,9 @@ bin/*
 .venv/*
 .vscode/*
 .tmp/*
-*/.ipynb_checkpoints/*
+ipynb/.ipynb_checkpoints/*
+ipynb/python/.ipynb_checkpoints/*
+ipynb/java/.ipynb_checkpoints/*
+ipynb/scala/.ipynb_checkpoints/*
+ipynb/hive/.ipynb_checkpoints/*
+
